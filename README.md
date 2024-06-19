@@ -5,23 +5,22 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=mercy-tarus&label=Profile%20views&color=0e75b6&style=flat" alt="mercy-tarus" /> </p>
 
-- 🌱 I’m currently learning **Flask to expand back-end expertise.**
+🌱 I’m currently learning Flask to expand back-end expertise.
 
-- 💬 Ask me about **react,Laravel and Javascript**
-  
-- 💻 Frontend skills: JavaScript, React
+💬 Ask me about react, Laravel and Javascript
 
--🛠️ Backend skills: Laravel, Python
+💻 Frontend skills: JavaScript, React
 
--📚 Currently learning Flask to expand backend expertise
+🛠️ Backend skills: Laravel, Python
+
+📚 Currently learning Flask to expand backend expertise
 
 -📊 Databases: PostgreSQL, SQLite
 
 -🌐 I am Passionate about building robust web applications
 
--🚀 Let’s connect and innovate together!
-
-- 📫 How to reach me **merciechelah1@gmail.com**
+🚀 Let’s connect and innovate together!
+📫 How to reach me merciechelah1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
