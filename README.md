@@ -15,9 +15,9 @@
 
 📚 Currently learning Flask to expand backend expertise
 
--📊 Databases: PostgreSQL, SQLite
+📊 Databases: PostgreSQL, SQLite
 
--🌐 I am Passionate about building robust web applications
+🌐 I am Passionate about building robust web applications
 
 🚀 Let’s connect and innovate together!
 📫 How to reach me merciechelah1@gmail.com
