@@ -16,4 +16,5 @@ You can find me on LinkedIn at
 
 🔗 LinkedIn: https://www.linkedin.com/in/mercy-tarus-2170a121b/
 
-📷 Instagram: @mercie-chelah
+
+
