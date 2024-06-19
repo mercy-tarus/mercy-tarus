@@ -1,6 +1,14 @@
-👋 Hi there! I’m Mercy, a Junior Software Developer & IT Support
 
-💻 Frontend skills: JavaScript, React
+<h1 align="center">👋 Hi there! I’m Mercy, a Junior Software Developer & IT Support</h1>
+
+<h3 align="center">🌐 I am Passionate about building robust web applications.India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mercy-tarus&label=Profile%20views&color=0e75b6&style=flat" alt="mercy-tarus" /> </p>
+
+- 🌱 I’m currently learning **Flask to expand back-end expertise.**
+
+- 💬 Ask me about **react,Laravel and Javascript**
+- 💻 Frontend skills: JavaScript, React
 
 🛠️ Backend skills: Laravel, Python
 
@@ -11,18 +19,6 @@
 🌐 I am Passionate about building robust web applications
 
 🚀 Let’s connect and innovate together!
-
-You can find me on LinkedIn at
-
-🔗 LinkedIn: https://www.linkedin.com/in/mercy-tarus-2170a121b/
-<h1 align="center">Hi 👋, I'm Mercy, a Junior Developer & IT Support</h1>
-<h3 align="center">🌐 I am Passionate about building robust web applications.India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mercy-tarus&label=Profile%20views&color=0e75b6&style=flat" alt="mercy-tarus" /> </p>
-
-- 🌱 I’m currently learning **Flask to expand back-end expertise.**
-
-- 💬 Ask me about **react,Laravel and Javascript**
 
 - 📫 How to reach me **merciechelah1@gmail.com**
 
