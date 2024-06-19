@@ -1,4 +1,4 @@
-👋 Hi there! I’m Mercy, a Junior Developer & IT Support
+👋 Hi there! I’m Mercy, a Junior Software Developer & IT Support
 
 💻 Frontend skills: JavaScript, React
 
