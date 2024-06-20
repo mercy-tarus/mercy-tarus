@@ -1,5 +1,5 @@
 
-<h1>👋 Hi there! I’m Mercy, a Junior Software Developer & IT Support</h1>
+<h2>👋 Hi there! I’m Mercy, a Junior Software Developer & IT Support</h2>
 
 <h3>🌐 I am Passionate about building robust web applications.India</h3>
 
@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Flask to expand back-end expertise.
 
-💬 Ask me about react, Laravel and Javascript
+💬 Ask me about React, Laravel, and Javascript
 
 💻 Frontend skills: JavaScript, React
 
