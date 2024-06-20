@@ -15,6 +15,8 @@
 
 📊 Databases: PostgreSQL, SQLite
 
+ 👨‍💻 All of my projects are available at [https://tarus23.my.canva.site/abouttarus](https://tarus23.my.canva.site/abouttarus)
+
 🚀 Let’s connect and innovate together!
 
 📫 How to reach me merciechelah1@gmail.com
